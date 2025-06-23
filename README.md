@@ -22,7 +22,6 @@
 ## GitHub Stats 📈
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=pahopu&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile&hide_border=true&align=left)
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=pahopu&theme=tokyonight&hide_border=true&align=right)
 ![trophy](https://github-profile-trophy.vercel.app/?username=pahopu&theme=algolia&rank=-C,-B&margin-w=3&no-frame=true&align=center)
 
 ## Activity 👩‍💻
