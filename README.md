@@ -23,7 +23,6 @@
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=pahopu&show_icons=true&locale=en&theme=tokyonight&rank_icon=percentile&hide_border=true&align=left)
 ![trophy](https://github-profile-trophy.vercel.app/?username=pahopu&theme=algolia&rank=-C,-B&margin-w=3&no-frame=true&align=center)
-![pahopu-github-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## Activity 👩‍💻
 
