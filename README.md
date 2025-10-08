@@ -24,7 +24,7 @@
 
 ![pahopu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pahopu&theme=tokyonight&hide_border=false&align=left)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pahopu&theme=algolia&rank=-C,-B&margin-w=3&no-frame=true&align=center)
+![trophy](https://github-profile-trophy.vercel.app/?username=pahopu&theme=algolia&rank=-C,-B&margin-w=3&align=center)
 
 ## Activity 👩‍💻
 
