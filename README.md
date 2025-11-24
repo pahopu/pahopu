@@ -17,15 +17,28 @@
 
 - 📫 How to reach me **hoangphucpham.work@gmail.com**
 
-## GitHub Stats 📈
+## GitHub Analytics 📈
+
 <div align="center">
-  <img height="200em" source="https://github-readme-stats.vercel.app/api?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&align=left"/>
-  <img height="200em" source="https://github-readme-stats.vercel.app/api/top-langs/?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&align=left&layout=compact"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation For Commit Change Logs" src="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-![pahopu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pahopu&theme=tokyonight&hide_border=false&align=left)
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&align=left" alt="pahopu's GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&align=left&layout=compact" alt="pahopu's GitHub Languages"/>
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pahopu&theme=algolia&rank=-C,-B&margin-w=3&align=center)
+<div align="center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pahopu&theme=tokyonight&hide_border=true&align=left" alt="pahopu's Streaks"/>
+</div>
+
+<div align="center">
+  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=pahopu&theme=algolia&rank=-C,-B&margin-w=3&align=left&hide_border=true" alt="pahopu's Trophies"/>
+</div>
 
 ## Activity 👩‍💻
 
@@ -50,8 +63,8 @@
 ## Connect with me 😁
 
 <div>
-<a href="https://www.facebook.com/ppahopu/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.linkedin.com/in/pahopu/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://www.facebook.com/ppahopu/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/pahopu/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </div>
 
 
