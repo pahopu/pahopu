@@ -18,7 +18,9 @@
 - 📫 How to reach me **hoangphucpham.work@gmail.com**
 
 ## GitHub Stats 📈
-![pahopu's Stats](https://github-readme-stats.vercel.app/api?username=pahopu&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&align=left) ![pahopu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahopu&theme=tokyonight&show_icons=true&hide_border=false&align=left&layout=compact)
+<div align="center">
+  ![pahopu's Stats](https://github-readme-stats.vercel.app/api?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&align=left) ![pahopu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&align=left&layout=compact)
+</div>
 
 ![pahopu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pahopu&theme=tokyonight&hide_border=false&align=left)
 
