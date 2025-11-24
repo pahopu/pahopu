@@ -18,7 +18,6 @@
 - 📫 How to reach me **hoangphucpham.work@gmail.com**
 
 ## GitHub Analytics 📈
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake-dark.svg">
@@ -35,14 +34,6 @@
 <div align="center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pahopu&theme=tokyonight&hide_border=true&align=left" alt="pahopu's Streaks"/>
 </div>
-
-<div align="center">
-  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=pahopu&theme=algolia&rank=-C,-B&margin-w=3&align=left&hide_border=true" alt="pahopu's Trophies"/>
-</div>
-
-## Activity 👩‍💻
-
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=pahopu&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
 
 ## Tech Stack 💻
 
