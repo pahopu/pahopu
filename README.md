@@ -1,64 +1,97 @@
-<h1 align="center">Hi 👋, I'm pahopu</h1>
-<h3 align="center">Frontend Developer | Junior | Python | Vue | GraphQL</h3>
+<div align="center">
+  
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Hi there, I'm Pham Hoang Phuc (pahopu)
+  </h1>
 
-<br align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="animated" />
-</br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineer;Front-End+Specialist;Building+Scalable+ERP+Systems;Computer+Science+Enthusiast" alt="Typing SVG" />
+  </a>
 
+  <br/>
 
+  <a href="https://pahopu-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pahopu&label=Profile%20views&color=blue&style=plastic" alt="pahopu" /> </p>
+  <br/><br/>
 
-## Overview
+  <div>
+    <a href="https://www.linkedin.com/in/pahopu/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    </a>
+    <a href="mailto:hoangphucpham.work@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/pahopu">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </div>
 
-- 🔭 I’m currently working in DVA Group
+</div>
 
-- 🌱 I’m currently learning **Vue, GraphQL, JSX and Quasar**
+<br/>
 
-- 📫 How to reach me **hoangphucpham.work@gmail.com**
+## 👨‍💻 About Me
 
-## GitHub Analytics 📈
+I'm a **Front-End Engineer** based in Vietnam with a strong foundation in **Computer Science** (GPA 9.14/10). I specialize in bridging complex backend logic with smooth, interactive user interfaces using modern frameworks.
+
+- 🔭 I’m currently working at **DVA Group** building large-scale ERP systems.
+- 🌱 I’m deeply exploring **Next.js 15, React Server Components**, and **System Architecture**.
+- 💡 I enjoy optimizing performance and writing clean, maintainable code.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,pinia,redux,tailwind,python,cpp,nodejs,graphql,git,github,figma,vscode,visualstudio,postman&perline=10" />
+  </a>
+</div>
+
+<br/>
+
+## 📈 Engineering Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <br/>
+        <img src="https://streak-stats.demolab.com?user=pahopu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation For Commit Change Logs" src="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/pahopu/pahopu/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&align=left" alt="pahopu's GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahopu&theme=tokyonight&show_icons=true&hide_border=true&align=left&layout=compact" alt="pahopu's GitHub Languages"/>
-</div>
+<br/>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pahopu&theme=tokyonight&hide_border=true&align=left" alt="pahopu's Streaks"/>
+  <img src="https://komarev.com/ghpvc/?username=pahopu&label=Profile%20Views&color=blue&style=flat-square" alt="pahopu" />
+  <br/>
+  <sub><i>Let's build something amazing together.</i></sub>
 </div>
 
-## Tech Stack 💻
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,pinia,tailwind,graphql" />
-  </a>
-</p>
-
-## Know To Use ⛏️
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,git,nodejs,npm,windows,notion,github,visualstudio,vscode,stackoverflow,codepen" />
-  </a>
-</p>
-
-## Connect with me 😁
-
-<div>
-  <a href="https://www.facebook.com/ppahopu/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/pahopu/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
-
-
-<br align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="animated" />
-</br>
