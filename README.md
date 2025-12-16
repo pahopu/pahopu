@@ -89,7 +89,7 @@ I'm a **Front-End Engineer** based in Vietnam with a strong foundation in **Comp
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pahopu&label=Profile%20Views&color=blue&style=flat-square" alt="pahopu" />
   <br/>
-  <sub><i>Let's build something amazing together.</i></sub>
+  <sub><i>Let's build something amazing together!</i></sub>
 </div>
 
 <div align="center">
